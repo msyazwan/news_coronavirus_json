@@ -10,4 +10,3 @@ git commit -am "made changes"
 # push to git remote repository
 git push
 ###########################
-read
