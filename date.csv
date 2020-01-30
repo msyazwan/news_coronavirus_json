@@ -1,0 +1,580 @@
+,date,location,news count
+0,2020-01-24,Atlanta,1
+1,2020-01-24,Bahrain,1
+2,2020-01-24,Bangkok,1
+3,2020-01-24,Beijing,6
+4,2020-01-24,Beijing City,1
+5,2020-01-24,California,1
+6,2020-01-24,Changsha,1
+7,2020-01-24,Chicago,1
+8,2020-01-24,China,23
+9,2020-01-24,Chongqing,1
+10,2020-01-24,Forbidden City,1
+11,2020-01-24,Forbidden City - One,1
+12,2020-01-24,France,1
+13,2020-01-24,Georgia,1
+14,2020-01-24,Gojek,1
+15,2020-01-24,Guangzhou,3
+16,2020-01-24,Hebei Province,1
+17,2020-01-24,Heilongjiang,1
+18,2020-01-24,Heilongjiang Province,1
+19,2020-01-24,Hong Kong,9
+20,2020-01-24,Hubei,4
+21,2020-01-24,Hubei Province,7
+22,2020-01-24,Hunan Province,1
+23,2020-01-24,India,1
+24,2020-01-24,Indonesia,1
+25,2020-01-24,Japan,10
+26,2020-01-24,Johor Bahru,1
+27,2020-01-24,Kuwait,1
+28,2020-01-24,Macau,4
+29,2020-01-24,Malaysia,2
+30,2020-01-24,Midview City,1
+31,2020-01-24,Narita,1
+32,2020-01-24,Paris,1
+33,2020-01-24,Porcupines,1
+34,2020-01-24,Qatar,1
+35,2020-01-24,Russia,1
+36,2020-01-24,Saudi Arabia,1
+37,2020-01-24,Seoul,1
+38,2020-01-24,Shanghai,7
+39,2020-01-24,Singapore,15
+40,2020-01-24,South Korea,9
+41,2020-01-24,Sydney,1
+42,2020-01-24,Taiwan,7
+43,2020-01-24,Thailand,10
+44,2020-01-24,The Ming Tombs,1
+45,2020-01-24,The United States,6
+46,2020-01-24,The Xiaotangshan Hospital,1
+47,2020-01-24,Tokyo,1
+48,2020-01-24,Us,4
+49,2020-01-24,Vietnam,6
+50,2020-01-24,Washington,2
+51,2020-01-24,Weibo,1
+52,2020-01-24,Wuhan,25
+53,2020-01-24,Wuhan City,3
+54,2020-01-25,Amman,1
+55,2020-01-25,Anup Bastola,1
+56,2020-01-25,Australia,3
+57,2020-01-25,Bahru,1
+58,2020-01-25,Bangkok,1
+59,2020-01-25,Bastola,1
+60,2020-01-25,Beijing,8
+61,2020-01-25,Bordeaux,1
+62,2020-01-25,Chicago,1
+63,2020-01-25,China,22
+64,2020-01-25,Dzulkefly,1
+65,2020-01-25,Forbidden City,3
+66,2020-01-25,France,5
+67,2020-01-25,Guangdong Province,1
+68,2020-01-25,Guangzhou,4
+69,2020-01-25,Hangzhou,2
+70,2020-01-25,Hong Kong,9
+71,2020-01-25,Hong Kong'S,1
+72,2020-01-25,Hongkong,1
+73,2020-01-25,Houhai,1
+74,2020-01-25,Huanggang,1
+75,2020-01-25,Hubei,11
+76,2020-01-25,Hubei Province,7
+77,2020-01-25,Hunan Province,1
+78,2020-01-25,Japan,3
+79,2020-01-25,Kathmandu,2
+80,2020-01-25,Kuala Lumpur,1
+81,2020-01-25,London,1
+82,2020-01-25,Macau,2
+83,2020-01-25,Malaysia,4
+84,2020-01-25,May.,1
+85,2020-01-25,Melbourne,1
+86,2020-01-25,Nepal,3
+87,2020-01-25,New South Wales,1
+88,2020-01-25,Paris,2
+89,2020-01-25,Queensland,1
+90,2020-01-25,Shandong,1
+91,2020-01-25,Shanghai,1
+92,2020-01-25,Shanghai Disneyland,1
+93,2020-01-25,Shenzhen,1
+94,2020-01-25,Singapore,8
+95,2020-01-25,South Korea,2
+96,2020-01-25,Sydney,1
+97,2020-01-25,Taiwan,2
+98,2020-01-25,Thailand,3
+99,2020-01-25,The United States,10
+100,2020-01-25,The Xiaotangshan Hospital,1
+101,2020-01-25,Us,5
+102,2020-01-25,Victoria,1
+103,2020-01-25,Vietnam,1
+104,2020-01-25,Washington,1
+105,2020-01-25,Weibo,2
+106,2020-01-25,Wuhan,24
+107,2020-01-25,Wuhan - Hubei'S,1
+108,2020-01-25,Wuhan City,2
+109,2020-01-26,Afghanistan,1
+110,2020-01-26,Australia,13
+111,2020-01-26,Bangkok,1
+112,2020-01-26,Beijing,12
+113,2020-01-26,Bordeaux,1
+114,2020-01-26,Britain,1
+115,2020-01-26,California,1
+116,2020-01-26,Canada,4
+117,2020-01-26,Changsha,1
+118,2020-01-26,"Chiang Mai, Phuket",1
+119,2020-01-26,Chicago,1
+120,2020-01-26,China,26
+121,2020-01-26,Costa Cruises,1
+122,2020-01-26,Disneyland,1
+123,2020-01-26,Forbidden City,1
+124,2020-01-26,France,12
+125,2020-01-26,Graffiti,1
+126,2020-01-26,Guangzhou,2
+127,2020-01-26,Hainan,1
+128,2020-01-26,Hangzhou,1
+129,2020-01-26,Hong Kong,8
+130,2020-01-26,Hong Kong Disneyland,1
+131,2020-01-26,Hong Kong'S,2
+132,2020-01-26,Huanggang,1
+133,2020-01-26,Hubei,8
+134,2020-01-26,Hubei Province,8
+135,2020-01-26,Hunan,1
+136,2020-01-26,Japan,6
+137,2020-01-26,Krabi,1
+138,2020-01-26,Kulai,1
+139,2020-01-26,London,1
+140,2020-01-26,Malaysia,3
+141,2020-01-26,Molotov,1
+142,2020-01-26,Myanmar,2
+143,2020-01-26,Nanjing,3
+144,2020-01-26,Orange County,1
+145,2020-01-26,Paris,3
+146,2020-01-26,Russia,1
+147,2020-01-26,San Francisco,1
+148,2020-01-26,Shandong,1
+149,2020-01-26,Shanghai,8
+150,2020-01-26,Shantou,3
+151,2020-01-26,Singapore,7
+152,2020-01-26,South Korea,6
+153,2020-01-26,South Korea'S,1
+154,2020-01-26,Sri Lanka,1
+155,2020-01-26,Sydney,2
+156,2020-01-26,Taiwan,2
+157,2020-01-26,Thailand,8
+158,2020-01-26,The Forbidden City,1
+159,2020-01-26,The People'S Republic Of China,2
+160,2020-01-26,The United States,9
+161,2020-01-26,Tianjin,3
+162,2020-01-26,Tokyo,2
+163,2020-01-26,Toronto,1
+164,2020-01-26,Us,3
+165,2020-01-26,Vatican,1
+166,2020-01-26,Vietnam,2
+167,2020-01-26,Washington,1
+168,2020-01-26,Weibo,3
+169,2020-01-26,Wuhan,25
+170,2020-01-26,Wuhan City,2
+171,2020-01-26,Xi'An,1
+172,2020-01-26,Xiantao,1
+173,2020-01-26,Xi’An,1
+174,2020-01-26,Zhijiang,1
+175,2020-01-27,Afghanistan,2
+176,2020-01-27,Altran,1
+177,2020-01-27,Arizona,1
+178,2020-01-27,Asakusa,1
+179,2020-01-27,Australia,3
+180,2020-01-27,Beijing,14
+181,2020-01-27,Belgium,1
+182,2020-01-27,Belgrade,1
+183,2020-01-27,Berlin,1
+184,2020-01-27,Bourges,1
+185,2020-01-27,Britain,1
+186,2020-01-27,California,1
+187,2020-01-27,Cambodia,1
+188,2020-01-27,Canada,1
+189,2020-01-27,China,40
+190,2020-01-27,Dongguan,1
+191,2020-01-27,Dubai,1
+192,2020-01-27,Emirates,1
+193,2020-01-27,Forbidden City,3
+194,2020-01-27,Foshan,1
+195,2020-01-27,France,6
+196,2020-01-27,Germany,1
+197,2020-01-27,Guangdong,3
+198,2020-01-27,Guangzhou,1
+199,2020-01-27,H1N1,1
+200,2020-01-27,Hainan,1
+201,2020-01-27,Hainan Island,1
+202,2020-01-27,Hangzhou,1
+203,2020-01-27,Hebei Province,1
+204,2020-01-27,Hong Kong,13
+205,2020-01-27,Hong Kong'S,4
+206,2020-01-27,Hubei,15
+207,2020-01-27,Hubei Province,11
+208,2020-01-27,Illinois,1
+209,2020-01-27,India,1
+210,2020-01-27,Indonesia,1
+211,2020-01-27,Jakarta,1
+212,2020-01-27,Janil,1
+213,2020-01-27,Japan,7
+214,2020-01-27,Jiangxi,2
+215,2020-01-27,Kazakhstan,1
+216,2020-01-27,London,1
+217,2020-01-27,Macau,4
+218,2020-01-27,Malaysia,1
+219,2020-01-27,Manila,1
+220,2020-01-27,Melbourne,1
+221,2020-01-27,Mongolia,2
+222,2020-01-27,Moscow,1
+223,2020-01-27,Nanjing,1
+224,2020-01-27,New South Wales,1
+225,2020-01-27,Olympic,1
+226,2020-01-27,Ontario,1
+227,2020-01-27,Ottawa,1
+228,2020-01-27,Paris,1
+229,2020-01-27,Phuket,1
+230,2020-01-27,Prince George'S,1
+231,2020-01-27,Rio De Janeiro,1
+232,2020-01-27,Rosturizm,1
+233,2020-01-27,Russia,1
+234,2020-01-27,San Francisco,3
+235,2020-01-27,Saudi Arabia,2
+236,2020-01-27,Saudi Arabia'S,1
+237,2020-01-27,Serbia,1
+238,2020-01-27,Shandong,2
+239,2020-01-27,Shanghai,5
+240,2020-01-27,Shiseido,1
+241,2020-01-27,Sihanoukville,1
+242,2020-01-27,Singapore,9
+243,2020-01-27,South Korea,2
+244,2020-01-27,Spain,1
+245,2020-01-27,Suzhou,1
+246,2020-01-27,Sydney,2
+247,2020-01-27,Taiwan,2
+248,2020-01-27,Thailand,5
+249,2020-01-27,Thais,1
+250,2020-01-27,The People’S Republic Of China,1
+251,2020-01-27,The United States,11
+252,2020-01-27,Tianjin,2
+253,2020-01-27,Tokyo,3
+254,2020-01-27,Toronto,1
+255,2020-01-27,Tsang,2
+256,2020-01-27,U.S.,3
+257,2020-01-27,Us,3
+258,2020-01-27,Uzbekistan,1
+259,2020-01-27,Washington,1
+260,2020-01-27,Weibo,2
+261,2020-01-27,Wellington,1
+262,2020-01-27,West Africa,1
+263,2020-01-27,Wuhan,37
+264,2020-01-27,Wuhan City,1
+265,2020-01-27,Xi'An,2
+266,2020-01-27,Zang,1
+267,2020-01-27,Zhengding County,1
+268,2020-01-27,Zhengding County'S,1
+269,2020-01-28,Amman,1
+270,2020-01-28,Atlanta,1
+271,2020-01-28,Australia,5
+272,2020-01-28,Bangkok,1
+273,2020-01-28,Bangladesh,1
+274,2020-01-28,Bavaria,1
+275,2020-01-28,Beijing,9
+276,2020-01-28,Belgium,1
+277,2020-01-28,Belgrade,1
+278,2020-01-28,Brent Crude,1
+279,2020-01-28,Buangkok,1
+280,2020-01-28,California,5
+281,2020-01-28,Canada,8
+282,2020-01-28,China,45
+283,2020-01-28,Chongqing,1
+284,2020-01-28,Citi,1
+285,2020-01-28,Cupertino,3
+286,2020-01-28,Denmark,1
+287,2020-01-28,Ebola,1
+288,2020-01-28,Foshan,1
+289,2020-01-28,France,6
+290,2020-01-28,Frankfurt,1
+291,2020-01-28,Georgia,1
+292,2020-01-28,Germany,4
+293,2020-01-28,Great Britain,1
+294,2020-01-28,Guangzhou,1
+295,2020-01-28,H1N1,1
+296,2020-01-28,Hainan,1
+297,2020-01-28,Hebei Province,1
+298,2020-01-28,Hideyuki Sano,1
+299,2020-01-28,Hong Kong,8
+300,2020-01-28,Hubei,17
+301,2020-01-28,Hubei Province,6
+302,2020-01-28,India,1
+303,2020-01-28,Ippt,1
+304,2020-01-28,Iran,1
+305,2020-01-28,Japan,11
+306,2020-01-28,Johor Bahru,1
+307,2020-01-28,Jyllands,1
+308,2020-01-28,Kazakhstan,1
+309,2020-01-28,Kivu,1
+310,2020-01-28,Labuan,1
+311,2020-01-28,London,2
+312,2020-01-28,Macau,3
+313,2020-01-28,Malaysia,5
+314,2020-01-28,Mongolia,2
+315,2020-01-28,Nagasaki,1
+316,2020-01-28,Nanjing,1
+317,2020-01-28,Nepal,1
+318,2020-01-28,New York,3
+319,2020-01-28,Ontario,1
+320,2020-01-28,Ontario Province'S,1
+321,2020-01-28,Paris,1
+322,2020-01-28,Philadelphia,1
+323,2020-01-28,Philippines,2
+324,2020-01-28,Sabah,1
+325,2020-01-28,Sarawak,1
+326,2020-01-28,Seoul,1
+327,2020-01-28,Shanghai,4
+328,2020-01-28,Singapore,15
+329,2020-01-28,South Korea,5
+330,2020-01-28,South Korea'S,1
+331,2020-01-28,Spain,2
+332,2020-01-28,Sri Lanka,6
+333,2020-01-28,Starnberg,1
+334,2020-01-28,Suzhou,1
+335,2020-01-28,Sydney,4
+336,2020-01-28,Taiwan,4
+337,2020-01-28,Tangshan,1
+338,2020-01-28,Tanjung Kupang,1
+339,2020-01-28,Thailand,6
+340,2020-01-28,The United States,14
+341,2020-01-28,Tokyo,4
+342,2020-01-28,Tonymoly,1
+343,2020-01-28,Toronto,1
+344,2020-01-28,Turkey,3
+345,2020-01-28,U.S.,4
+346,2020-01-28,Uk,3
+347,2020-01-28,Us,10
+348,2020-01-28,Usa,1
+349,2020-01-28,Uzbekistan,1
+350,2020-01-28,Vespignani,1
+351,2020-01-28,Vietnam,2
+352,2020-01-28,Washington,1
+353,2020-01-28,Weibo,2
+354,2020-01-28,West Africa,1
+355,2020-01-28,West Malaysia,1
+356,2020-01-28,Winnipeg,1
+357,2020-01-28,Wuhan,37
+358,2020-01-28,Xi'An,1
+359,2020-01-28,Yanqing,1
+360,2020-01-28,Yeung,1
+361,2020-01-28,Zika,1
+362,2020-01-29,Alaska,1
+363,2020-01-29,Amman,1
+364,2020-01-29,Arizona,1
+365,2020-01-29,Australia,9
+366,2020-01-29,Bangkok,1
+367,2020-01-29,Barcelona,1
+368,2020-01-29,Bavaria,1
+369,2020-01-29,Beijing,19
+370,2020-01-29,Belgrade,1
+371,2020-01-29,Bishan,1
+372,2020-01-29,Bordeaux,1
+373,2020-01-29,Brisbane,2
+374,2020-01-29,Britain,3
+375,2020-01-29,British Columbia,1
+376,2020-01-29,Buangkok,1
+377,2020-01-29,California,3
+378,2020-01-29,Cambodia,2
+379,2020-01-29,Canada,2
+380,2020-01-29,Canberra,1
+381,2020-01-29,Charlotte,1
+382,2020-01-29,Chicago,3
+383,2020-01-29,China,52
+384,2020-01-29,Chongqing,3
+385,2020-01-29,Clark,1
+386,2020-01-29,Dongguan,3
+387,2020-01-29,Drc,1
+388,2020-01-29,Ebola,1
+389,2020-01-29,Fellbach,1
+390,2020-01-29,Finland,1
+391,2020-01-29,Foshan,3
+392,2020-01-29,France,5
+393,2020-01-29,Geneva,1
+394,2020-01-29,Germany,5
+395,2020-01-29,Guangdong,1
+396,2020-01-29,Guangdong Province,1
+397,2020-01-29,Guangzhou,1
+398,2020-01-29,Hangzhou,1
+399,2020-01-29,Hardware Zone,1
+400,2020-01-29,Hebei Province,2
+401,2020-01-29,Hefei,1
+402,2020-01-29,Helsinki,1
+403,2020-01-29,Ho Chi Minh City,1
+404,2020-01-29,Hong Kong,8
+405,2020-01-29,Hong Kong'S,1
+406,2020-01-29,Huanggang City,1
+407,2020-01-29,Hubei,14
+408,2020-01-29,Hubei Province,8
+409,2020-01-29,India,1
+410,2020-01-29,Indonesia,3
+411,2020-01-29,Japan,12
+412,2020-01-29,Jc,1
+413,2020-01-29,Jetstar,1
+414,2020-01-29,Jordan,2
+415,2020-01-29,Kansas,1
+416,2020-01-29,Kazakhstan,3
+417,2020-01-29,Kunming,1
+418,2020-01-29,Langkawi,1
+419,2020-01-29,Lingshui,1
+420,2020-01-29,London,2
+421,2020-01-29,Los Angeles,2
+422,2020-01-29,Macau,2
+423,2020-01-29,Malaysia,5
+424,2020-01-29,Manila,1
+425,2020-01-29,Melbourne,2
+426,2020-01-29,Michigan,1
+427,2020-01-29,Moscow,1
+428,2020-01-29,Munich,1
+429,2020-01-29,Nanjing,3
+430,2020-01-29,New Jersey,1
+431,2020-01-29,New York,1
+432,2020-01-29,New Zealand,1
+433,2020-01-29,Newark,1
+434,2020-01-29,Noor Hisham,1
+435,2020-01-29,North Carolina,1
+436,2020-01-29,Olympic,3
+437,2020-01-29,Osaka,1
+438,2020-01-29,Paris,2
+439,2020-01-29,Pennsylvania,1
+440,2020-01-29,Rome,1
+441,2020-01-29,Rovaniemi,1
+442,2020-01-29,Russia,2
+443,2020-01-29,Rwanda,1
+444,2020-01-29,San Francisco,1
+445,2020-01-29,Santa Claus,1
+446,2020-01-29,Serbia,2
+447,2020-01-29,Shanghai,10
+448,2020-01-29,Sichuan,1
+449,2020-01-29,Singapore,10
+450,2020-01-29,South Korea,2
+451,2020-01-29,South Korea'S,1
+452,2020-01-29,Sri Lanka,1
+453,2020-01-29,Stockdorf,1
+454,2020-01-29,Stuttgart,2
+455,2020-01-29,Sweden,1
+456,2020-01-29,Sydney,4
+457,2020-01-29,Taicang,1
+458,2020-01-29,Taipei,1
+459,2020-01-29,Taiwan,7
+460,2020-01-29,Thailand,5
+461,2020-01-29,The United Arab Emirates,2
+462,2020-01-29,The United States,15
+463,2020-01-29,Tokyo,5
+464,2020-01-29,Toronto,1
+465,2020-01-29,U.S.,8
+466,2020-01-29,Upper Serangoon,1
+467,2020-01-29,Us,9
+468,2020-01-29,Uzbekistan,1
+469,2020-01-29,Vancouver,1
+470,2020-01-29,Vietnam,4
+471,2020-01-29,Washington,4
+472,2020-01-29,Weibo,2
+473,2020-01-29,West Chester,1
+474,2020-01-29,Wichita,1
+475,2020-01-29,Wuhan,41
+476,2020-01-29,Wuhan Bosch,1
+477,2020-01-29,Wuhan City,1
+478,2020-01-29,Wuhan Province,1
+479,2020-01-29,Wujin,1
+480,2020-01-29,Wuxi,1
+481,2020-01-29,Xi’An,1
+482,2020-01-29,Yangon,1
+483,2020-01-29,Yanqing,1
+484,2020-01-29,Zhejiang,1
+485,2020-01-29,Zika,1
+486,2020-01-30,Alaska,1
+487,2020-01-30,Argentina,1
+488,2020-01-30,Australia,4
+489,2020-01-30,Beijing,3
+490,2020-01-30,Berlin,1
+491,2020-01-30,Brazil,1
+492,2020-01-30,Brexit,1
+493,2020-01-30,Britain,4
+494,2020-01-30,California,7
+495,2020-01-30,Canada,4
+496,2020-01-30,Chengdu,1
+497,2020-01-30,China,35
+498,2020-01-30,Dallas,1
+499,2020-01-30,Dharamsala,1
+500,2020-01-30,Egypt,1
+501,2020-01-30,Finland,1
+502,2020-01-30,France,4
+503,2020-01-30,Geneva,3
+504,2020-01-30,Germany,7
+505,2020-01-30,Guangzhou,2
+506,2020-01-30,Guiyang,1
+507,2020-01-30,Hangzhou,2
+508,2020-01-30,Hefei,1
+509,2020-01-30,Hong Kong,9
+510,2020-01-30,Hubei,8
+511,2020-01-30,Hubei Province,5
+512,2020-01-30,Iberia,1
+513,2020-01-30,India,1
+514,2020-01-30,Indonesia,3
+515,2020-01-30,Indonesians,1
+516,2020-01-30,Iphones,1
+517,2020-01-30,Iraq,1
+518,2020-01-30,Jakarta,1
+519,2020-01-30,Japan,9
+520,2020-01-30,Jj,1
+521,2020-01-30,Kaesong,1
+522,2020-01-30,Kedah,1
+523,2020-01-30,London,1
+524,2020-01-30,Los Angeles,2
+525,2020-01-30,Macau,2
+526,2020-01-30,Malacca,1
+527,2020-01-30,Malaysia,2
+528,2020-01-30,Manado,1
+529,2020-01-30,Manpower,1
+530,2020-01-30,Memang,1
+531,2020-01-30,Miami,2
+532,2020-01-30,Miriam Yeung’S,1
+533,2020-01-30,Mongolia,1
+534,2020-01-30,Moscow,1
+535,2020-01-30,Munich,1
+536,2020-01-30,Nanjing,3
+537,2020-01-30,Nejm,1
+538,2020-01-30,Netherlands,1
+539,2020-01-30,New Delhi,1
+540,2020-01-30,New Zealand,1
+541,2020-01-30,North Korea,1
+542,2020-01-30,North Sulawesi Province,1
+543,2020-01-30,Pacific Island,1
+544,2020-01-30,Palau,1
+545,2020-01-30,Papua New Guinea,2
+546,2020-01-30,Paris,1
+547,2020-01-30,Persia,1
+548,2020-01-30,Philippines,1
+549,2020-01-30,Redmond,1
+550,2020-01-30,Russia,2
+551,2020-01-30,Schneider,2
+552,2020-01-30,Semoga,1
+553,2020-01-30,Seoul,1
+554,2020-01-30,Shanghai,5
+555,2020-01-30,Shenzhen,1
+556,2020-01-30,Singapore,12
+557,2020-01-30,South Korea,1
+558,2020-01-30,South Korea'S,1
+559,2020-01-30,Stockdorf,1
+560,2020-01-30,Sydney,1
+561,2020-01-30,Syria,1
+562,2020-01-30,Taiwan,3
+563,2020-01-30,Thailand,1
+564,2020-01-30,The Marshall Islands,2
+565,2020-01-30,The United Arab Emirates,2
+566,2020-01-30,The United State,1
+567,2020-01-30,The United States,10
+568,2020-01-30,Tibet,1
+569,2020-01-30,Tokyo,3
+570,2020-01-30,U.S.,2
+571,2020-01-30,United States,1
+572,2020-01-30,Us,9
+573,2020-01-30,Vietnam,3
+574,2020-01-30,Washington,3
+575,2020-01-30,Wuhan,30
+576,2020-01-30,Wuhan-Bali,1
+577,2020-01-30,Xuzhou,1
+578,2020-01-30,Yonhap,1
